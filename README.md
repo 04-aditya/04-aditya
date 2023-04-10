@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @04-aditya, also known as Aditya Banerjee
-- 👀 I’m interested in primarily data science, but mainly I'm interested in the never-ending process of learning.
+- 👋 Hi, I’m @04-aditya, also known as Aditya Banerjee, an ASDE-1 at Publicis Sapient.
+- 👀 I’m primarily interested in tech stacks surrounding DevOps, as well as playing around with Cloud Platforms. Other tech stacks I'm comfortable with include ReactJS and TypeScript, with a little bit of Python for Data Analytics.
 - 🌱 I’m currently learning everything around me. I would love to explore so many different technologies as and when I get the opportunity to.
 - 💞️ I’m looking to collaborate on anything that excites me!
 - 📫 How to reach me, well, LinkedIn would be the fastest.
